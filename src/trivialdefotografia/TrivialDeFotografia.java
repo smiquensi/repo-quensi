@@ -167,7 +167,7 @@ public class TrivialDeFotografia {
                 System.out.printf("Deberías ver más video en YouTube de fotografía, solo has acertado un %.2f%% de respuestas correctas.%n", mediaAciertos);
             } else if (mediaAciertos < 67) {
                 System.out.printf("Veo que has cogido alguna vez una cámara. Aunque deberías profundizar un poco más en la teoría. Has acertado un %.2f%% de repuestas correctas.%n", mediaAciertos);
-            } else if (mediaAciertos < 98) {
+            } else if (mediaAciertos < 99) {
                 System.out.printf("Muy bien!! Podrías abrir tu canal de fotografía para que otros aprendieran de ti. Has acertado un %.2f%% de repuestas correctas.%n", mediaAciertos);
             } else if (mediaAciertos == 100) {
                 System.out.printf("Genial!! Has acertado el %.2f%% de las respuesta. Eres todo un/a Maestro/a de la fotografía.%n", mediaAciertos);
